@@ -1,2 +1,2 @@
 # DotNetToolKit
-A toolkit containing very frequently used .NET C# functionality routines.
+A toolkit containing very frequently used .NET C# functionalities.
